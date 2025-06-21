@@ -1,8 +1,8 @@
 const rotas = {
-    '/': 'inicio',
-    '/formacao': 'formacao',
-    '/experiencia': 'experiencia',
-    '/contato': 'contato'
+    '/CVEstiloTrailhead/': 'inicio',
+    '/CVEstiloTrailhead/formacao': 'formacao',
+    '/CVEstiloTrailhead/experiencia': 'experiencia',
+    '/CVEstiloTrailhead/contato': 'contato'
 };
 
 function onInit() {
